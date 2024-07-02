@@ -11,8 +11,10 @@ Guidelines to use the software
 
 2)database installation and setup guide for full functionality of the software
    if d=mysql database is preinstalled then just execute the following command to change the password
+   
           >ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456789';
-          now directly go to step 2)iii)
+          
+   now directly go to step 2)iii)
 
    if database is not previously installed then follow from below instruction.
    
