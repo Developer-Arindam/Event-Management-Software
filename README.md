@@ -6,16 +6,14 @@ The mysetup.exe file can be used to directly use the software ,for which the ste
 
 Guidelines to use the software
 
-1)download the mysetup.exe file and install the application.
- the login page and account creation page will be functional.
+1)download the mysetup.exe file and install the application.At the first stage only
+ the login page and account creation page will open. After the database connection, the application will be fully functional and the remaining parts can be seen after successful login.
 
 2)database installation and setup guide for full functionality of the software
-   if mysql database is preinstalled then just execute the following command to change the password
-   
-          >ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456789';
-          
-   now directly go to step 2)iii)
-
+   if mysql database is preinstalled then just execute the following command to change the password and after that directly go to step 2)iii)
+            
+       >ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456789';
+    
    if database is not previously installed then follow from below instruction.
    
    i)download mysql database. the link is given below
