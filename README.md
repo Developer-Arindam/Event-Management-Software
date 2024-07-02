@@ -40,4 +40,4 @@ Guidelines to use the software
     >create table registrar(ename varchar(50),date varchar(50),pname varchar(100),phno varchar(10),college varchar(100),mail varchar(100));
 
 
-3)Set up is done. First creat an user account. then login.
+3)Set up is done.Open the application.First creat an user account. then login.
