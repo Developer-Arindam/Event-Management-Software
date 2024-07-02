@@ -5,6 +5,7 @@ The mysetup.exe file can be used to directly use the software ,for which the ste
 
 
 Guidelines to use the software
+-------------------------------
 
 1)download the mysetup.exe file and install the application.At the first stage only
  the login page and account creation page will open. After the database connection, the application will be fully functional and the remaining parts can be seen after successful login.
