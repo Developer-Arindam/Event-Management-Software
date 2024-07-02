@@ -1,7 +1,7 @@
 # Event-Management-Software
 An Event management software to manage University events and fests.This is a Java Swing Application. 
-The UI Snapsots.pdf file uploaded here contains the UI images  , that gives a idea of the software.Code_folder has the java files of the application.
-The software requires MYSQL database.
+The UI Snapsots.pdf file uploaded here contains the UI images  , that gives a idea of the software. Code_folder has the java files of the application.
+The software requires MYSQL database. The mysetup.exe file can be used to directly use the software ,for which the steps are mentioned below.
 
 
 Guidelines to use the software
@@ -28,7 +28,7 @@ Guidelines to use the software
     the root password must have to be 123456789 . other wise the application cannot connect with the mysql database.
 
 
-  iii)open the mysql command prompt.enter the password 123456789.
+  iii)open the mysql command prompt. Enter the password 123456789.
    
   then execute the following mysql commands
   
