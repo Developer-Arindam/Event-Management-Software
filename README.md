@@ -10,7 +10,7 @@ Guidelines to use the software
  the login page and account creation page will be functional.
 
 2)database installation and setup guide for full functionality of the software
-   if d=mysql database is preinstalled then just execute the following command to change the password
+   if mysql database is preinstalled then just execute the following command to change the password
    
           >ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456789';
           
