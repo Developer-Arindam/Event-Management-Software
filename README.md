@@ -1,6 +1,6 @@
 # Event-Management-Software
-An Event management software to manage University events and fests.
-The UI Snapsots.pdf file uploaded here contains the UI images  , that gives a idea of the software.
+An Event management software to manage University events and fests.This is a Java Swing Application. 
+The UI Snapsots.pdf file uploaded here contains the UI images  , that gives a idea of the software.Code_folder has the java files of the application.
 The software requires MYSQL database.
 
 
