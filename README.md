@@ -23,10 +23,19 @@ Guidelines to use the software
   iii)open the mysql command prompt.enter the password 123456789.
   then execute the following mysql commands
     >create database db;
+
+    
     >use db;
+    
     >create table account(name varchar(50),email varchar(50),phone varchar(10),password varchar(20),type varchar(12),college varchar(100));
+
+    
     >create table event(name varchar(50),date varchar(50),venue varchar(100),time varchar(100),duration varchar(100),budget int(10),description varchar(300));
+
+    
     >create table sponsor(ename varchar(50),sname varchar(50),mail varchar(100),amount varchar(20),status varchar(100));
+
+    
     >create table registrar(ename varchar(50),date varchar(50),pname varchar(100),phno varchar(10),college varchar(100),mail varchar(100));
 
 
