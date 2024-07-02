@@ -10,6 +10,12 @@ Guidelines to use the software
  the login page and account creation page will be functional.
 
 2)database installation and setup guide for full functionality of the software
+   if d=mysql database is preinstalled then just execute the following command to change the password
+          >ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456789';
+          now directly go to step 2)iii)
+
+   if database is not previously installed then follow from below instruction.
+   
    i)download mysql database. the link is given below
    https://dev.mysql.com/downloads/installer/
 
@@ -21,6 +27,7 @@ Guidelines to use the software
 
 
   iii)open the mysql command prompt.enter the password 123456789.
+   
   then execute the following mysql commands
   
     >create database db;
@@ -40,4 +47,4 @@ Guidelines to use the software
     >create table registrar(ename varchar(50),date varchar(50),pname varchar(100),phno varchar(10),college varchar(100),mail varchar(100));
 
 
-3)Set up is done.Open the application.First creat an user account. then login.
+3)Set up is done. Open the application. First create an user account. After successful account creation click on 'back' then login.
