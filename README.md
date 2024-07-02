@@ -22,6 +22,7 @@ Guidelines to use the software
 
   iii)open the mysql command prompt.enter the password 123456789.
   then execute the following mysql commands
+  
     >create database db;
 
     
