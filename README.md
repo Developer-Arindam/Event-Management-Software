@@ -2,7 +2,12 @@
 An Event management software to manage University events and fests. This is a Java Swing Application. 
 The UI Snapsots.pdf file uploaded here contains the UI images  , that gives a idea of the software. Code_folder has the java files of the application.
 The mysetup.exe file can be used to directly use the software ,for which the steps are mentioned below. For complete functionlity of the software ,MYSQL database is needed.
-
+# Features
+ - Organizer,Participants signup and Login
+ - Participants can see different upcoming Events and register for event
+ - Organizer can Create,Update or Delete event
+ - Organizer can manage the sponcors for events
+ - MYSQL database has been used to store all informations.  
 
 Guidelines to use the software
 -------------------------------
